@@ -1,0 +1,41 @@
+{% extends 'base.html' %}
+
+
+{% block body %}
+  <!-- Navigation-->
+  <a class="menu-toggle rounded" href="#"><i class="fas fa-bars"></i></a>
+  <nav id="sidebar-wrapper">
+      <ul class="sidebar-nav">
+          <li class="sidebar-brand"><a href="#page-top">Context Menu</a></li>
+          <li class="sidebar-nav-item"><a href="#page-top">Home</a></li>
+          <li class="sidebar-nav-item"><a href="#about">About</a></li>
+      </ul>
+  </nav>
+ 
+  <!-- Header-->
+  <header class="masthead d-flex align-items-center">
+      <div class="container px-4 px-lg-5 text-center">
+          <h1 class="mb-1">Tip of your frying Brain</h1>
+          <h3 class="mb-5"><em>Can you guess the movie ?</em></h3>
+          <a class="btn btn-primary btn-xl" href="{% url 'tomb:GameView' %}">Let's Start!</a>
+      </div>
+  </header>
+
+  <!-- Footer-->
+  <footer class="footer text-center">
+      <div class="container px-4 px-lg-5">
+          <ul class="list-inline mb-5">
+              <li class="list-inline-item">
+                  <a class="social-link rounded-circle text-white mr-3" href="#!"><i class="icon-social-facebook"></i></a>
+              </li>
+              <li class="list-inline-item">
+                  <a class="social-link rounded-circle text-white mr-3" href="#!"><i class="icon-social-twitter"></i></a>
+              </li>
+              <li class="list-inline-item">
+                  <a class="social-link rounded-circle text-white" href="#!"><i class="icon-social-github"></i></a>
+              </li>
+          </ul>
+          <p class="text-muted small mb-0">Copyright &copy; TOMB</p>
+      </div>
+  </footer>
+{% endblock %}

@@ -1,0 +1,82 @@
+[
+  {
+    "model": "TipOfMyBrain.movie",
+    "pk": 3,
+    "fields": {
+      "title": "The Road to Wellville",
+      "description": "Embark on a bizarre journey to a health resort run by a cereal obsessed guru! Witness desperate souls seeking wellness through questionable methods. Enemas, strange diets, and vibrating chairs abound. Is it enlightenment or utter madness? Prepare for a hilarious, stomach-churning, and utterly unforgettable quest for perfect health!\n"
+    }
+  },
+  {
+    "model": "TipOfMyBrain.movie",
+    "pk": 4,
+    "fields": {
+      "title": "The Puppet Masters",
+      "description": "Tiny aliens invade, not with lasers, but with mind control! Suddenly, everyone's strangely agreeable. One rogue individual, immune for reasons best left unexplained, must expose the bizarre puppet show before humanity becomes a synchronized dance troupe for extraterrestrial overlords. It's gonna be awkward.\n"
+    }
+  },
+  {
+    "model": "TipOfMyBrain.movie",
+    "pk": 5,
+    "fields": {
+      "title": "Wild Reeds",
+      "description": "Summer '75. A boarding school in rural France. Think hormonal teenagers, political unrest & questionable haircuts. Suddenly, existential angst meets awkward romance. Prepare for stolen kisses, ideological clashes, and the burning question: who's got the best beret?\n"
+    }
+  },
+  {
+    "model": "TipOfMyBrain.movie",
+    "pk": 6,
+    "fields": {
+      "title": "S.F.W.",
+      "description": "He just wanted to graduate. Now, he's a reluctant celebrity, held hostage by apathy and a media circus. Can one slacker's sarcastic wit save him from becoming the poster child for a generation that's already checked out? Get ready for some seriously messed-up, yet strangely relatable, existential dread.\n"
+    }
+  },
+  {
+    "model": "TipOfMyBrain.movie",
+    "pk": 7,
+    "fields": {
+      "title": "Sangharsh",
+      "description": "A rookie agent, terrified of the dark, must catch a child-snatching psychopath. Problem? The killer's MO is as twisted as his hideout. Get ready for screams, shadows, and maybe a therapy bill or two after this rollercoaster ride of fear!\n"
+    }
+  },
+  {
+    "model": "TipOfMyBrain.movie",
+    "pk": 8,
+    "fields": {
+      "title": "The Santa Clause",
+      "description": "A disgruntled dad, facing a Christmas Eve of epic proportions, accidentally triggers a bizarre chain of events. Suddenly, he's sporting a suspiciously jolly belly and a beard that defies razor blades. Now, he's got to embrace a destiny far more festive than he ever imagined, or risk ruining Christmas for everyone! Buckle up for a hilarious holiday adventure where believing is seeing...and seeing is believing you've lost your mind!\n"
+    }
+  },
+  {
+    "model": "TipOfMyBrain.movie",
+    "pk": 9,
+    "fields": {
+      "title": "The Scout",
+      "description": "A hapless galactic scout, notorious for finding *nothing*, stumbles upon a planet teeming with... well, *something*. It's either the greatest discovery ever, or a cosmic prank played by a bored nebula. Prepare for intergalactic awkwardness and questionable life choices!\n"
+    }
+  },
+  {
+    "model": "TipOfMyBrain.movie",
+    "pk": 10,
+    "fields": {
+      "title": "The Secret of Roan Inish",
+      "description": "A wee lass is convinced her baby brother didn't just float away. She believes he's living with the seals on a mystical island! Prepare for folklore, family secrets, and maybe, just maybe, a whole lot of blubber. Is it magic, madness, or just a really good fish story?\n"
+    }
+  },
+  {
+    "model": "TipOfMyBrain.movie",
+    "pk": 11,
+    "fields": {
+      "title": "Serial Mom",
+      "description": "Suburban bliss? Think again! This seemingly perfect housewife has a *killer* instinct for keeping things tidy. Bad manners, noisy neighbors, and chewing gum in church? Prepare for a deadly dose of domestic discipline. She's making life a real scream...literally!\n"
+    }
+  },
+  {
+    "model": "TipOfMyBrain.movie",
+    "pk": 12,
+    "fields": {
+      "title": "The Shadow",
+      "description": "He lurks in the city's underbelly, a cloaked figure battling injustice with a booming laugh and uncanny abilities. When a sinister new weapon threatens to plunge the metropolis into darkness, this mysterious avenger must emerge from the shadows. But can even his extraordinary skills and network of informants stop a foe who seems to know his every move? Prepare for pulp action, mind-bending illusions, and a healthy dose of old-fashioned vigilantism, served with a side of witty banter.\n"
+    }
+  }
+]

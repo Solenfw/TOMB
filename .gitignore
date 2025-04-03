@@ -33,3 +33,6 @@ local_settings.py
 
 # Windows
 Thumbs.db
+
+# temporary/non-related files
+errand.py

@@ -9,11 +9,27 @@
     <h1>Round One</h1>
 
     <div>
-        <p id="description">The description goes here!</p>
-        <form action="{% url 'tomb:GameView' %}" method="post" class="mt-4">
-            {% csrf_token %}  {# Include CSRF token for security #}
-            <input type="text" name="user_guess" class="form-control" placeholder="Enter your guess..." required>
-            <button type="submit" class="btn btn-primary">Submit</button>
-        </form>
+        {% if error_message %}
+            <p>{{ error_message }}</p>
+        {% endif %}
+        {% if current_movie %}
+            <p id="description">{{ current_movie.description }}</p>
+
+            <form action="{% url 'tomb:GameView' %}" method="post" class="mt-4">
+                {% csrf_token %}
+                <input type="text" name="user_guess" placeholder="Enter your guess..." required>
+                <button type="submit" name="submit-button" class="btn btn-primary">Submit</button>
+            </form>
+
+            <form action="{% url 'tomb:GameView' %}" method="get" class="mt-2">
+                <button type="submit" name="next-button" class="btn btn-primary">Next</button>
+            </form>
+        {% else %}
+            <p>No movies available in the database.</p>
+        {% endif %}
     </div>
+
+    {% if result %}
+    <p>{{ result }}</p>
+    {% endif %}
 {% endblock %}

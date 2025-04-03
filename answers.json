@@ -1,0 +1,82 @@
+[
+  {
+    "model": "TipOfMyBrain.useranswer",
+    "pk": 3,
+    "fields": {
+      "movie": 3,
+      "correct_answer": "The Road to Wellville"
+    }
+  },
+  {
+    "model": "TipOfMyBrain.useranswer",
+    "pk": 4,
+    "fields": {
+      "movie": 4,
+      "correct_answer": "The Puppet Masters"
+    }
+  },
+  {
+    "model": "TipOfMyBrain.useranswer",
+    "pk": 5,
+    "fields": {
+      "movie": 5,
+      "correct_answer": "Wild Reeds"
+    }
+  },
+  {
+    "model": "TipOfMyBrain.useranswer",
+    "pk": 6,
+    "fields": {
+      "movie": 6,
+      "correct_answer": "S.F.W."
+    }
+  },
+  {
+    "model": "TipOfMyBrain.useranswer",
+    "pk": 7,
+    "fields": {
+      "movie": 7,
+      "correct_answer": "Sangharsh"
+    }
+  },
+  {
+    "model": "TipOfMyBrain.useranswer",
+    "pk": 8,
+    "fields": {
+      "movie": 8,
+      "correct_answer": "The Santa Clause"
+    }
+  },
+  {
+    "model": "TipOfMyBrain.useranswer",
+    "pk": 9,
+    "fields": {
+      "movie": 9,
+      "correct_answer": "The Scout"
+    }
+  },
+  {
+    "model": "TipOfMyBrain.useranswer",
+    "pk": 10,
+    "fields": {
+      "movie": 10,
+      "correct_answer": "The Secret of Roan Inish"
+    }
+  },
+  {
+    "model": "TipOfMyBrain.useranswer",
+    "pk": 11,
+    "fields": {
+      "movie": 11,
+      "correct_answer": "Serial Mom"
+    }
+  },
+  {
+    "model": "TipOfMyBrain.useranswer",
+    "pk": 12,
+    "fields": {
+      "movie": 12,
+      "correct_answer": "The Shadow"
+    }
+  }
+]

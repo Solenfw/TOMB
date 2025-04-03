@@ -36,3 +36,6 @@ Thumbs.db
 
 # temporary/non-related files
 errand.py
+
+# Github workflow
+.github/
